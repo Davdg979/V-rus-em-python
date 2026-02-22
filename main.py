@@ -21,7 +21,8 @@ bt1 = tk.Button(janela,
                 bg="Green",
                 fg="White",
                 font=("Arial Black", 12),
-                command=troja)
+                command=iniciar_ataque)
 bt1.pack(pady=20)
+
 
 janela.mainloop()
